@@ -22,9 +22,8 @@
 
 ---
 
-## 📖 Lernfortschritt
+## 📖 Lernfortschritt CS50x
 ```bash
-*CS50x**
 ✔ Week 0 (C)
 ✔ Week 1 (C)
 ✔ Week 2 (C)
