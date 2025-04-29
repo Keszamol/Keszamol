@@ -1,5 +1,5 @@
 # Hallo, ich bin Celine 👋
-**Angehende Programmiererin** | Ausbildungsvorbereitung | CS50x-Studentin
+**Angehende Programmiererin** | Ausbildungsvorbereitung | CS50x-Schülerin
 
 ---
 
