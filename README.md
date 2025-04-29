@@ -19,7 +19,6 @@
 **Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  
 
 
 ---
