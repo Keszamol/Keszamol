@@ -4,9 +4,9 @@
 ---
 
 ## 🚀 Über mich
-- Ich lerne gerade Programmieren von Grund auf mithilfe des CS50x-Kurses (C, Python, JavaScript).  
-- Ziel: In 1,5 Jahren starte ich meine Ausbildung zur Anwendungsentwicklerin und möchte bis dahin fundierte Kenntnisse aufgebaut haben.  
-- Motivation: Begeisterung für sauberen Code, Problemlösungen und Open-Source.
+- Ich lerne gerade Programmieren von Grund auf hierzu habe ich bereits den CS50x Kurs absolviert (C, Python, JavaScript).  
+- Ziel: 2026 starte ich meine Ausbildung zur Anwendungsentwicklerin und möchte bis dahin fundierte Kenntnisse aufgebaut haben.  
+- Motivation: Begeisterung für sauberen Code und Problemlösungen.
 
 ---
 
@@ -49,6 +49,7 @@
 
 ## 📂 Ausblick: Meine ersten Projekte 
 - CS50x erfolgreich abgeschlossen mit Interaktiver Web-Seite mit HTML, CSS & Python
+- Aktuell arbeite ich an einem Habit-Tracker mit HTML, CSS, JS & Python
 
 ---
 
