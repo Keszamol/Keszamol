@@ -5,7 +5,7 @@
 
 ## 🚀 Über mich
 - Ich lerne gerade Programmieren von Grund auf hierzu habe ich bereits den CS50x Kurs absolviert (C, Python, JavaScript).  
-- Ziel: 2026 starte ich meine Ausbildung zur Anwendungsentwicklerin und möchte bis dahin fundierte Kenntnisse aufgebaut haben.  
+- Ziel: 2026 möchte ich meine Ausbildung zur Anwendungsentwicklerin starten und möchte bis dahin fundierte Kenntnisse aufgebaut haben.  
 - Motivation: Begeisterung für sauberen Code und Problemlösungen.
 
 ---
