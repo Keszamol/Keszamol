@@ -24,9 +24,8 @@
 ---
 
 ## 📖 Kurse 
+**✔ = erledigt | ⚠️ = aktuell in arbeit**
 ```bash
-✔ = erledigt | ⚠️ = aktuell in arbeit
-
 ✔ CS50x
 ⚠️ Udacity - Introduction to Python Programming
 ```
