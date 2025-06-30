@@ -33,15 +33,15 @@
 ---
 
 ## 📅 Aktuelle Lernziele
-1. Täglich mindestens 30 Minuten Programmieren.  
-2. Web-App bis Juni 2025  
+1. So viel lernen wie möglich
+2. Kleine Projekte umsetzen (Todo Liste etc.)
 3. Eigenes Portfolio live hosten bis August 2025.
 
 ---
 
 ## 📂 Ausblick: Meine ersten Projekte 
 - CS50x erfolgreich abgeschlossen mit Interaktiver Web-Seite mit HTML, CSS & Python
-- Aktuell arbeite ich an einem Habit-Tracker mit HTML, CSS, JS & Python
+- Aktuell arbeite ich an meinem Abendtagebuch (cs50x-project), ich möchte das Projekt noch weiter verbessern. 
 
 ---
 
