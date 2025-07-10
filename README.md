@@ -25,10 +25,9 @@
 
 ## 📖 Kurse 
 **✔ = erledigt ⚠️ = aktuell in arbeit**
-```bash
+
 ✔ CS50x
 ⚠️ Udacity - Introduction to Python Programming
-```
 
 ---
 
