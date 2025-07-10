@@ -32,10 +32,14 @@
 
 ---
 
+## 💡 Projekte
+- [Stimmungstracker](https://github.com/Keszamol/cs50x-project)
+
+---
+
 ## 📅 Aktuelle Lernziele
 1. So viel lernen wie möglich
 2. Kleine Projekte umsetzen (Todo Liste etc.)
-3. Eigenes Portfolio live hosten bis August 2025.
 
 ---
 
