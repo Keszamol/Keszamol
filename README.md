@@ -41,12 +41,6 @@
 
 ---
 
-## 📂 Ausblick: Meine ersten Projekte 
-- CS50x erfolgreich abgeschlossen mit Interaktiver Web-Seite mit HTML, CSS & Python
-- Aktuell arbeite ich an meinem Abendtagebuch (cs50x-project), ich möchte das Projekt noch weiter verbessern. 
-
----
-
 ## 📫 Kontakt 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/celine-maloszek)
 
