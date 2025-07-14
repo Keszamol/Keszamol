@@ -1,5 +1,5 @@
 # Hallo, ich bin Celine 👋
-**Angehende Programmiererin** | Ausbildungsvorbereitung
+**Angehende Entwicklerin** | Ausbildungsvorbereitung
 
 ---
 
