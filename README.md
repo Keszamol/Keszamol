@@ -28,8 +28,9 @@
 ---
 
 ## 💡 Projekte
-- [Stimmungstracker](https://github.com/Keszamol/cs50x-project)
+- [Stimmungs-Tracker](https://github.com/Keszamol/cs50x-project)
 - [Calculator](https://github.com/Keszamol/tkinter_calculator)
+- [Lernzeit-Tracker](https://github.com/Keszamol/lernzeit_tracker)
 
 ---
 
